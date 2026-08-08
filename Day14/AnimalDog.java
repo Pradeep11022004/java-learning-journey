@@ -20,7 +20,6 @@ public class AnimalDog {
         Dog dog = new Dog();
         dog.eat();
         dog.bark();
-       
 
     }
 }
